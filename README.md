@@ -95,7 +95,7 @@ cd google-drive-auto-setup
 ## 2 — Make the script executable
 
 ```bash
-chmod +x install.sh
+chmod +x google-drive-autoinstall.sh
 ```
 
 ---
@@ -103,7 +103,7 @@ chmod +x install.sh
 ## 3 — Run the installer
 
 ```bash
-./install.sh
+./google-drive-autoinstall.sh
 ```
 
 ---
@@ -387,7 +387,7 @@ cd google-drive-auto-setup
 ## 2 — Dê permissão de execução
 
 ```bash
-chmod +x install.sh
+chmod +x google-drive-autoinstall.sh
 ```
 
 ---
@@ -395,7 +395,7 @@ chmod +x install.sh
 ## 3 — Execute o script
 
 ```bash
-./install.sh
+./google-drive-autoinstall.sh
 ```
 
 ---
